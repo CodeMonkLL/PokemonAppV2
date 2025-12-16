@@ -1,0 +1,14 @@
+services:
+  auth-db:
+    image: postgres:18
+    environment:
+      POSTGRES_USER: auth
+      POSTGRES_PASSWORD: auth_pw
+      POSTGRES_DB: authdb
+    ports:
+      - "5432:5432"
+    volumes:
+      - authdata:/var/lib/postgresql
+
+volumes:
+  authdata:
