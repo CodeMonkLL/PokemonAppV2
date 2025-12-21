@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\PrivatprojekteGit\\PokemonApp2\\Authentification-PokemonApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{249DEEA2-4D5C-451A-9A09-956A7AF262A0}|Authentification-PokemonApp.csproj|c:\\privatprojektegit\\pokemonapp2\\authentification-pokemonapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{249DEEA2-4D5C-451A-9A09-956A7AF262A0}|Authentification-PokemonApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{249DEEA2-4D5C-451A-9A09-956A7AF262A0}|Authentification-PokemonApp.csproj|c:\\privatprojektegit\\pokemonapp2\\authentification-pokemonapp\\data\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{249DEEA2-4D5C-451A-9A09-956A7AF262A0}|Authentification-PokemonApp.csproj|solutionrelative:data\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{249DEEA2-4D5C-451A-9A09-956A7AF262A0}|Authentification-PokemonApp.csproj|c:\\privatprojektegit\\pokemonapp2\\authentification-pokemonapp\\data\\authentificationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{249DEEA2-4D5C-451A-9A09-956A7AF262A0}|Authentification-PokemonApp.csproj|solutionrelative:data\\authentificationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{249DEEA2-4D5C-451A-9A09-956A7AF262A0}|Authentification-PokemonApp.csproj|c:\\privatprojektegit\\pokemonapp2\\authentification-pokemonapp\\data\\entities\\roleentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{249DEEA2-4D5C-451A-9A09-956A7AF262A0}|Authentification-PokemonApp.csproj|solutionrelative:data\\entities\\roleentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{249DEEA2-4D5C-451A-9A09-956A7AF262A0}|Authentification-PokemonApp.csproj|c:\\privatprojektegit\\pokemonapp2\\authentification-pokemonapp\\authentification-pokemonapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{249DEEA2-4D5C-451A-9A09-956A7AF262A0}|Authentification-PokemonApp.csproj|solutionrelative:authentification-pokemonapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{249DEEA2-4D5C-451A-9A09-956A7AF262A0}|Authentification-PokemonApp.csproj|c:\\privatprojektegit\\pokemonapp2\\authentification-pokemonapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{249DEEA2-4D5C-451A-9A09-956A7AF262A0}|Authentification-PokemonApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -31,9 +51,97 @@
           ]
         },
         {
-          "DockedWidth": 528,
-          "SelectedChildIndex": 3,
+          "DockedWidth": 423,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\PrivatprojekteGit\\PokemonApp2\\Authentification-PokemonApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\PrivatprojekteGit\\PokemonApp2\\Authentification-PokemonApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-21T18:37:36.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoleEntity.cs",
+              "DocumentMoniker": "C:\\PrivatprojekteGit\\PokemonApp2\\Authentification-PokemonApp\\Data\\Entities\\RoleEntity.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\RoleEntity.cs",
+              "ToolTip": "C:\\PrivatprojekteGit\\PokemonApp2\\Authentification-PokemonApp\\Data\\Entities\\RoleEntity.cs",
+              "RelativeToolTip": "Data\\Entities\\RoleEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T18:10:31.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "C:\\PrivatprojekteGit\\PokemonApp2\\Authentification-PokemonApp\\Data\\Entities\\UserEntity.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\UserEntity.cs",
+              "ToolTip": "C:\\PrivatprojekteGit\\PokemonApp2\\Authentification-PokemonApp\\Data\\Entities\\UserEntity.cs",
+              "RelativeToolTip": "Data\\Entities\\UserEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T18:02:57.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Authentification-PokemonApp.csproj",
+              "DocumentMoniker": "C:\\PrivatprojekteGit\\PokemonApp2\\Authentification-PokemonApp\\Authentification-PokemonApp.csproj",
+              "RelativeDocumentMoniker": "Authentification-PokemonApp.csproj",
+              "ToolTip": "C:\\PrivatprojekteGit\\PokemonApp2\\Authentification-PokemonApp\\Authentification-PokemonApp.csproj",
+              "RelativeToolTip": "Authentification-PokemonApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-16T17:41:37.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthentificationDbContext.cs",
+              "DocumentMoniker": "C:\\PrivatprojekteGit\\PokemonApp2\\Authentification-PokemonApp\\Data\\AuthentificationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AuthentificationDbContext.cs",
+              "ToolTip": "C:\\PrivatprojekteGit\\PokemonApp2\\Authentification-PokemonApp\\Data\\AuthentificationDbContext.cs",
+              "RelativeToolTip": "Data\\AuthentificationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T17:41:22.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PrivatprojekteGit\\PokemonApp2\\Authentification-PokemonApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\PrivatprojekteGit\\PokemonApp2\\Authentification-PokemonApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T17:35:42.936Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f4fc5ff1-28ef-4b04-ad02-6b298310ccc7}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -45,23 +153,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\PrivatprojekteGit\\PokemonApp2\\Authentification-PokemonApp\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\PrivatprojekteGit\\PokemonApp2\\Authentification-PokemonApp\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-16T17:35:42.936Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             }
           ]
         }
